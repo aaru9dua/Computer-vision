@@ -13,10 +13,10 @@ which can be compiled on almost all the platforms.
 
 <h2>Algorithmic Approach</h2>
 Majorly there are <b>Three main steps</b>to solve our problem.
-<ol>
   <li><b>Extracting Sudoku grid from our webcam Image</b></li>
     The first one is to extract the Sudoku grid from our webcam Image and Fig 1 shows how to proceed step by step in achieving this task.
-     <img src="Real-time Sudoku Solver/step1.PNG" alt="step1">
+ 
+
 
 
 
