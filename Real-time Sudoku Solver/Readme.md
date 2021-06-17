@@ -7,8 +7,8 @@ of very basic image processing techniques. A very good way to start is the OpenC
 which can be compiled on almost all the platforms.
 
 <h2>Software Requirements</h2>
-<li>OpenCV-for handling image processing</li>
-<li>Numpy-for handling numeric data</li>
+<li><a href='https://pypi.org/project/opencv-python/'>OpenCV</a>-for handling image processing</li>
+<li><a href='https://numpy.org/'>Numpy</a>-for handling numeric data</li>
 <li>Tersseract- for optical character recognition (OCR) tool</li>
 
 <h2>Algorithmic Approach</h2>
