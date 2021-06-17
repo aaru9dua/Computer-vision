@@ -16,7 +16,7 @@ Majorly there are <b>Three main steps</b>to solve our problem.
 <ol>
   <li><b>Extracting Sudoku grid from our webcam Image</b></li>
     The first one is to extract the Sudoku grid from our webcam Image and Fig 1 shows how to proceed step by step in achieving this task.
-     <img src="https://drive.google.com/file/d/1e8KszORDW_ofWqCvQDsEKBaevl1ZS4ts/view?usp=sharing" alt="step1">
+     <img src="Real-time Sudoku Solver/step1.PNG" alt="step1">
 
 
 
