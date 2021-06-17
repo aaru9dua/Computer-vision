@@ -18,12 +18,14 @@ Majorly there are <b>Three main steps</b>to solve our problem.
   <li><b>Extracting Sudoku grid from our webcam Image</b></li>
     The first one is to extract the Sudoku grid from our webcam Image and Fig 1 shows how to proceed step by step in achieving this task.
     
-![step1](https://user-images.githubusercontent.com/46483403/122406110-38d1fb80-cf9e-11eb-88b8-76875b743d41.png)
+  <p align="center">
+   <img src="https://github.com/aaru9dua/Computer-vision/blob/main/Real-time%20Sudoku%20Solver/step1.png" width="900" height="450" /></p>
   <br>
   <li><b>Detecting Digits from Extracted Image</b></li>
   The second step is to preprocess the extracted image in order to Detect the Digits using pytesseract. Fig 2 shows the steps involved to detect the grid numbers.
   
-![step2](https://user-images.githubusercontent.com/46483403/122408224-d4b03700-cf9f-11eb-998a-5960f2a80353.png)
+  <p align="center">
+   <img src="https://github.com/aaru9dua/Computer-vision/blob/main/Real-time%20Sudoku%20Solver/step2.png" width="900" height="450" /></p>
   <br>
   <li><b>Solve the Sudoku puzzle using recurssive method</b></li>
 </ol>
@@ -31,3 +33,4 @@ Majorly there are <b>Three main steps</b>to solve our problem.
 <h2>RESULT</h2>
 
 ![Media1](https://user-images.githubusercontent.com/46483403/122409778-0a095480-cfa1-11eb-8f17-77583f6495e1.gif)
+![Picture1](https://user-images.githubusercontent.com/46483403/122447789-b9eeba00-cfc1-11eb-9751-424cd8cfd2bd.png)
