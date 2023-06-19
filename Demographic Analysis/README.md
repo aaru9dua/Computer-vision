@@ -13,6 +13,10 @@
   <li>dlib</li>
 </ul>
 
+## Model workflow
+
+![image](https://github.com/aaru9dua/Computer-vision/assets/46483403/713a10af-6c6e-4e1a-a0c4-4a3d19979745)
+
 ## How to run
 <ol>
   <li> Download the dataset zip file from <a href="https://drive.google.com/file/d/1Z1RqRo0_JiavaZw2yzZG6WETdZQ8qX86/view">Here</a>.</li>
